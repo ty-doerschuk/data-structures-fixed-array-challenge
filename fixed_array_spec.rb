@@ -17,4 +17,5 @@ describe FixedArray do
     fixedarray.set(2, 'three')
     expect(fixedarray.get(2)).to eq 'three'
   end
+  
 end

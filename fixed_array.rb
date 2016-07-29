@@ -25,5 +25,4 @@ class FixedArray
       arr[index]
     end
   end
-
 end
